@@ -1769,7 +1769,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a42ed9;
+  background: #3313d1;
 }
 .feed-link,
 .chat {
@@ -2723,7 +2723,7 @@ hr {
 }
 设置背景图片,
 body {
-  background: url("https://wx4.sinaimg.cn/mw2000/006TUibSly1h3sjeh2e21j31rq2r6ah6.jpg");
+  background: url("/images/tou.png");
   background-repeat: repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
