@@ -1769,7 +1769,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3313d1;
+  background: #ffd67f;
 }
 .feed-link,
 .chat {
@@ -2720,19 +2720,6 @@ hr {
   padding: 25px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
-}
-设置背景图片,
-body {
-  background: url("/images/tou.png");
-  background-repeat: repeat;
-  background-attachment: fixed;
-  background-position: 50% 50%;
-  background-size: cover;
-}
-改变背景色和透明度,
-.main-inner {
-  background: #e1e2e4;
-  opacity: 0.9;
 }
 .post-body p a {
   color: #e1e2e4;
