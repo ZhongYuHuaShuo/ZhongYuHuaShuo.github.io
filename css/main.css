@@ -1769,7 +1769,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff;
+  background: #0882c1;
 }
 .feed-link,
 .chat {
@@ -1949,7 +1949,7 @@ pre .javascript .function {
 .footer {
   font-size: 14px;
   color: #999;
-  background: #11cf81 none repeat scroll !important;
+  background: #e1e2e4 none repeat scroll !important;
 }
 .footer img {
   border: none;
@@ -2375,7 +2375,7 @@ hr {
   margin-top: 80px;
 }
 .header {
-  background: #11c1d6 none repeat scroll !important;
+  background: #e1e2e4 none repeat scroll !important;
 }
 .header-inner {
   padding: 20px 0;
@@ -2482,7 +2482,7 @@ hr {
 .menu-item-active a,
 .menu .menu-item a:hover,
 .menu .menu-item span.exturl:hover {
-  background: #111aad;
+  background: #aeafb3;
 }
 .menu {
   margin: 0;
@@ -2701,7 +2701,7 @@ hr {
 .footer {
   margin-top: 80px;
   padding: 10px 0;
-  background: rgba(17,18,120,0.3) none repeat scroll !important;
+  background: rgba(225,226,228,0.3) none repeat scroll !important;
   color: #666;
 }
 .footer-inner {
@@ -2722,7 +2722,7 @@ hr {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 .post-body p a {
-  color: #1c86ee;
+  color: #e1e2e4;
   border-bottom: none;
   border-bottom: 1px solid #1c86ee;
 }
@@ -2732,10 +2732,10 @@ hr {
   border-bottom: 1px solid #fc6423;
 }
 ::selection {
-  background: #00c4b6;
-  color: #f7f7f7;
+  background: #e1e2e4;
+  color: #aeafb3;
 }
 ::-moz-selection {
-  background: #00c4b6;
-  color: #f7f7f7;
+  background: rgba(17,238,34,0.933) 4;
+  color: #aeafb3;
 }
