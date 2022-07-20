@@ -1769,7 +1769,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd67f;
+  background: #c45d0a;
 }
 .feed-link,
 .chat {
@@ -2713,29 +2713,4 @@ hr {
     width: auto;
     text-align: center;
   }
-}
-.post {
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding: 25px;
-  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
-  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
-}
-.post-body p a {
-  color: #e1e2e4;
-  border-bottom: none;
-  border-bottom: 1px solid #1c86ee;
-}
-.post-body p a:hover {
-  color: #fc6423;
-  border-bottom: none;
-  border-bottom: 1px solid #fc6423;
-}
-::selection {
-  background: #e1e2e4;
-  color: #aeafb3;
-}
-::-moz-selection {
-  background: rgba(17,238,34,0.933) 4;
-  color: #aeafb3;
 }
